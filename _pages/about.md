@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal page! I am currently a Ph.D. candidate in the Computer Science Department at the University of Massachusetts Amherst, where I have the privilege of working under the guidance of Professor James Allan. My academic journey in the field of Computer Engineering began at the University of Tehran, where I earned my Master of Science degree, mentored by Professor Azadeh Shakery.
+Welcome to my personal page! I am currently a Ph.D. candidate in the Computer Science Department at the University of Massachusetts Amherst, where I have the privilege of working under the guidance of Professor James Allan. I received my Master's degree from the Computer Science Department at the University of Tehran, mentored by Professor Azadeh Shakery.
 
-My research is deeply rooted in the realms of Information Retrieval, Data Mining, Natural Language Processing, Recommender Systems, and Reinforcement Learning. These areas fascinate me because they stand at the crossroads of technology and human interaction, shaping the way we access and utilize vast amounts of information.
+
+
+My research interests are centered around Information Retrieval, Data Mining, Natural Language Processing, Recommender Systems, and Reinforcement Learning. These areas fascinate me because they stand at the crossroads of technology and human interaction, shaping the way we access and utilize vast amounts of information.
 
 Throughout my academic career, I have been driven by a passion to develop innovative solutions and to push the boundaries of knowledge in these fields. I am constantly exploring new challenges and opportunities to apply my expertise, whether it be through collaborative projects, independent research, or engaging with the academic community.
 
