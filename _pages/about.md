@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ali Montazeralghaem (Montazer)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to my personal page! I am currently a Ph.D. candidate in the Computer Science Department at the University of Massachusetts Amherst, where I have the privilege of working under the guidance of Professor James Allan. My academic journey in the field of Computer Engineering began at the University of Tehran, where I earned my Master of Science degree, mentored by Professor Azadeh Shakery.
+
+My research is deeply rooted in the realms of Information Retrieval, Data Mining, Natural Language Processing, Recommender Systems, and Reinforcement Learning. These areas fascinate me because they stand at the crossroads of technology and human interaction, shaping the way we access and utilize vast amounts of information.
+
+Throughout my academic career, I have been driven by a passion to develop innovative solutions and to push the boundaries of knowledge in these fields. I am constantly exploring new challenges and opportunities to apply my expertise, whether it be through collaborative projects, independent research, or engaging with the academic community.
 
 A data-driven personal website
 ======
