@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in the Computer Science Department at the University of Massachusetts Amherst, where I have the privilege of working under the guidance of <a href="https://ciir.cs.umass.edu/~allan/">Professor James Allan</a>. I received my Master's degree from the Computer Science Department at the University of Tehran, mentored by Professor Azadeh Shakery.
+I am currently a Ph.D. candidate in the Computer Science Department at the University of Massachusetts Amherst, where I have the privilege of working under the guidance of <a href="https://ciir.cs.umass.edu/~allan/">Professor James Allan</a>. I received my Master's degree from the Computer Science Department at the University of Tehran, mentored by <a href="https://ece.ut.ac.ir/en/~shakery/">Professor Azadeh Shakery</a>.
 
 
 
