@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2016-07-01
-venue: 'International ACM SIGIR Conference on Research and Development in Information Retrieval'
+venue: 'The 39th International ACM SIGIR conference on Research and Development in Information Retrieval'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/2911451.2914768'
 citation: ''
 ---
