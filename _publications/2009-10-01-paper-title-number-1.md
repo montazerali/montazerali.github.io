@@ -1,15 +1,12 @@
 ---
-title: "Using large language models to generate, validate, and apply user intent taxonomies"
+title: "Axiomatic analysis for improving the log-logistic feedback model"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2016-07
+venue: 'SIGIR'
+paperurl: 'https://dl.acm.org/doi/pdf/10.1145/2911451.2914768'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
