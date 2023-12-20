@@ -10,6 +10,6 @@ citation: 'Montazeralghaem, A., Zamani, H., & Shakery, A. (2016, July). Axiomati
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/sigir2016.pdf)
+[Download paper here](https://dl.acm.org/doi/abs/10.1145/2911451.2914768)
 
 Recommended citation: Montazeralghaem, A., Zamani, H., & Shakery, A. (2016, July). Axiomatic analysis for improving the log-logistic feedback model. In Proceedings of the 39th International ACM SIGIR conference on Research and Development in Information Retrieval (pp. 765-768).
