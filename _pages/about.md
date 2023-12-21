@@ -49,6 +49,10 @@ Throughout my academic career, I have been driven by a passion to develop innova
             <strong>Relevance Ranking Based on Query-Aware Context Analysis</strong> - Description or abstract of Paper 2.
             <a href="https://link.springer.com/chapter/10.1007/978-3-030-45439-5_30">Read More</a>
         </li>
+       <li>
+            <strong>Theoretical Analysis of Interdependent Constraints in Pseudo-Relevance Feedback</strong> - Description or abstract of Paper 2.
+            <a href="https://dl.acm.org/doi/pdf/10.1145/3209978.3210156">Read More</a>
+        </li>
         <!-- Add more papers as needed -->
     </ul>
 </div>
