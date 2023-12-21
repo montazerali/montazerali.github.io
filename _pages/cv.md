@@ -2,7 +2,7 @@
 [Download my CV](http://montazerali.github.io/files/Ali_montazer_updatedCV2.pdf)
 
 
-<!--
+
 
 ---
 layout: archive
@@ -64,4 +64,4 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 
--->
+
