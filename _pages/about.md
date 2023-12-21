@@ -26,12 +26,12 @@ Throughout my academic career, I have been driven by a passion to develop innova
             <a href="https://arxiv.org/pdf/2309.13063.pdf">Read More</a>
         </li>
         <li>
-            <strong>Paper Title 2</strong> - Description or abstract of Paper 2.
-            <a href="link-to-paper-2.pdf">Read More</a>
+            <strong>Algorithmic Vibe in Information Retrieval</strong> - Description or abstract of Paper 2.
+            <a href="https://dl.acm.org/doi/pdf/10.1145/3543507.3583384">Read More</a>
         </li>
         <li>
-            <strong>Paper Title 3</strong> - Description or abstract of Paper 3.
-            <a href="link-to-paper-3.pdf">Read More</a>
+            <strong>Extracting Relevant Information from Users Utterances in Conversational Search and Recommendation</strong> - Description or abstract of Paper 3.
+            <a href="https://dl.acm.org/doi/pdf/10.1145/3534678.3539471">Read More</a>
         </li>
         <!-- Add more papers as needed -->
     </ul>
