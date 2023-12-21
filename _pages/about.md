@@ -22,6 +22,10 @@ Throughout my academic career, I have been driven by a passion to develop innova
     <h2>Selected Papers</h2>
     <ul>
         <li>
+            <strong>Extracting Relevant Information from Users Utterances in Conversational Search and Recommendation</strong> - Description or abstract of Paper 3.
+            <a href="https://dl.acm.org/doi/pdf/10.1145/3534678.3539471">Read More</a>
+        </li>
+        <li>
             <strong>Using Large Language Models to Generate, Validate, and Apply User Intent Taxonomies </strong>
             <a href="https://arxiv.org/pdf/2309.13063.pdf">Read More</a>
         </li>
@@ -30,8 +34,16 @@ Throughout my academic career, I have been driven by a passion to develop innova
             <a href="https://dl.acm.org/doi/pdf/10.1145/3543507.3583384">Read More</a>
         </li>
         <li>
-            <strong>Extracting Relevant Information from Users Utterances in Conversational Search and Recommendation</strong> - Description or abstract of Paper 3.
-            <a href="https://dl.acm.org/doi/pdf/10.1145/3534678.3539471">Read More</a>
+            <strong>Learning Relevant Questions for Conversational Product Search using Deep Reinforcement Learning</strong> - Description or abstract of Paper 2.
+            <a href="https://dl.acm.org/doi/pdf/10.1145/3488560.3498526">Read More</a>
+        </li>
+        <li>
+            <strong>Large-scale Interactive Conversational Recommendation System using Actor-Critic Framework</strong> - Description or abstract of Paper 2.
+            <a href="https://dl.acm.org/doi/pdf/10.1145/3460231.3474271">Read More</a>
+        </li>
+        <li>
+            <strong>A Reinforcement Learning Framework for Relevance Feedback</strong> - Description or abstract of Paper 2.
+            <a href="https://dl.acm.org/doi/pdf/10.1145/3397271.3401099">Read More</a>
         </li>
         <!-- Add more papers as needed -->
     </ul>
