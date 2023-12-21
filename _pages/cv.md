@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV](http://montazerali.github.io/files/Ali_montazer_updatedCV2.pdf)
+[Download](http://montazerali.github.io/files/Ali_montazer_updatedCV2.pdf)
 
 
 <!--
