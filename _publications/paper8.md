@@ -1,5 +1,5 @@
 ---
-title: "Deep Neural Networks for Query Expansion using Word Embeddings"
+title: "An Axiomatic Study of Query Terms Order in Ad-hoc Retrieval"
 collection: publications
 permalink: /publication/paper8
 excerpt: ''
