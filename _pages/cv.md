@@ -1,9 +1,3 @@
-
-[Download my CV](http://montazerali.github.io/files/Ali_montazer_updatedCV2.pdf)
-
-
-
-
 ---
 layout: archive
 title: "CV"
