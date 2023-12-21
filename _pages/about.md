@@ -17,13 +17,23 @@ My research interests are centered around Information Retrieval, Data Mining, Na
 Throughout my academic career, I have been driven by a passion to develop innovative solutions and to push the boundaries of knowledge in these fields. I am constantly exploring new challenges and opportunities to apply my expertise, whether it be through collaborative projects, independent research, or engaging with the academic community.
 -->
 
----
-title: "Search Result Diversification with Guarantee of Topic Proportionality"
-collection: publications
-permalink: /publication/paper11
-excerpt: ''
-date: 2020-09-01
-venue: 'The 2020 ACM SIGIR on International Conference on Theory of Information Retrieval'
-paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3409256.3409839'
----
+<!-- Selected Papers Section -->
+<div id="selected-papers">
+    <h2>Selected Papers</h2>
+    <ul>
+        <li>
+            <strong>Paper Title 1</strong> - Description or abstract of Paper 1.
+            <a href="link-to-paper-1.pdf">Read More</a>
+        </li>
+        <li>
+            <strong>Paper Title 2</strong> - Description or abstract of Paper 2.
+            <a href="link-to-paper-2.pdf">Read More</a>
+        </li>
+        <li>
+            <strong>Paper Title 3</strong> - Description or abstract of Paper 3.
+            <a href="link-to-paper-3.pdf">Read More</a>
+        </li>
+        <!-- Add more papers as needed -->
+    </ul>
+</div>
 
