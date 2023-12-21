@@ -23,7 +23,7 @@ Throughout my academic career, I have been driven by a passion to develop innova
     <ul>
         <li>
             <strong>Paper Title 1</strong> - Using Large Language Models to Generate, Validate, and Apply User Intent Taxonomies.
-            <a [href="link-to-paper-1.pdf](https://arxiv.org/pdf/2309.13063.pdf)">Read More</a>
+            <a href="https://arxiv.org/pdf/2309.13063.pdf">Read More</a>
         </li>
         <li>
             <strong>Paper Title 2</strong> - Description or abstract of Paper 2.
