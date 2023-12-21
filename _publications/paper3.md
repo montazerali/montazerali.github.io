@@ -1,14 +1,14 @@
 ---
-title: "Coss Domain User Engagement Evaluation"
+title: "Improving Retrieval Performance for Verbose Queries via Axiomatic Analysis of Term Discrimination Heuristic"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-3
+permalink: /publication/paper3
 excerpt: ''
-date: 2016-04-01
-venue: 'The 38th European Conference on Information Retrieval'
+date: 2017-08-01
+venue: 'The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval'
 paperurl: ''
 ---
 
 
-[Download paper here](https://link.springer.com/chapter/10.1007/978-3-319-30671-1_64)
+[Download paper here](https://dl.acm.org/doi/pdf/10.1145/3077136.3080761)
 
 
