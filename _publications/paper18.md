@@ -1,5 +1,5 @@
 ---
-title: "Algorithmic Vibe in Information Retrieva"
+title: "Algorithmic Vibe in Information Retrieval"
 collection: publications
 permalink: /publication/paper18
 excerpt: ''
