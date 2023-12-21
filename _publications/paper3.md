@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper3
 excerpt: ''
 date: 2017-08-01
-venue: 'The 40th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval'
+venue: 'The 40th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval '
 paperurl: ''
 ---
 
