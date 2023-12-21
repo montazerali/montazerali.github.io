@@ -1,7 +1,7 @@
 ---
 title: "Search Engine"
 collection: teaching
-type: ""
+type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Massachusetts Amherst"
 date: 2023-09-01
