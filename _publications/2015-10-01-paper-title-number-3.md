@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-3
 excerpt: ''
 date: 2016-04-01
-venue: 'The 38th European Conference on Information Retrieval, 2016'
+venue: 'The 38th European Conference on Information Retrieval'
 paperurl: ''
 ---
 
