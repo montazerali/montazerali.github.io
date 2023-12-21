@@ -26,7 +26,7 @@ Throughout my academic career, I have been driven by a passion to develop innova
             <a href="https://dl.acm.org/doi/pdf/10.1145/3534678.3539471">Read More</a>
         </li>
         <li>
-            <strong>Using Large Language Models to Generate, Validate, and Apply User Intent Taxonomies </strong>
+            <strong>Using Large Language Models to Generate, Validate, and Apply User Intent Taxonomies </strong> - Published in arxiv, 2023.
             <a href="https://arxiv.org/pdf/2309.13063.pdf">Read More</a>
         </li>
         <li>
