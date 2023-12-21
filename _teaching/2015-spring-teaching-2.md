@@ -1,5 +1,5 @@
 ---
-title: "Search Engines Fall 2023"
+title: "Search Engines, Fall 2023"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
