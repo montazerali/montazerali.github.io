@@ -22,7 +22,7 @@ Throughout my academic career, I have been driven by a passion to develop innova
     <h2>Selected Papers</h2>
     <ul>
         <li>
-            <strong>Extracting Relevant Information from Users Utterances in Conversational Search and Recommendation</strong> - Description or abstract of Paper 3.
+            <strong>Extracting Relevant Information from Users Utterances in Conversational Search and Recommendation</strong> - Published in The 28th ACM KDD22 Conference on Knowledge Discovery and Data Mining, 2022.
             <a href="https://dl.acm.org/doi/pdf/10.1145/3534678.3539471">Read More</a>
         </li>
         <li>
