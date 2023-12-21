@@ -22,8 +22,8 @@ Throughout my academic career, I have been driven by a passion to develop innova
     <h2>Selected Papers</h2>
     <ul>
         <li>
-            <strong>Paper Title 1</strong> - Description or abstract of Paper 1.
-            <a href="link-to-paper-1.pdf">Read More</a>
+            <strong>Paper Title 1</strong> - Using Large Language Models to Generate, Validate, and Apply User Intent Taxonomies.
+            <a [href="link-to-paper-1.pdf](https://arxiv.org/pdf/2309.13063.pdf)">Read More</a>
         </li>
         <li>
             <strong>Paper Title 2</strong> - Description or abstract of Paper 2.
