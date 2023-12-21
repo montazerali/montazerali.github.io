@@ -3,7 +3,7 @@ title: "A Reinforcement Learning Framework for Relevance Feedback"
 collection: publications
 permalink: /publication/paper13
 excerpt: ''
-date: 2020-04-01
+date: 2020-07-01
 venue: 'The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval'
 paperurl: ''
 ---
