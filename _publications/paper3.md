@@ -1,14 +1,14 @@
 ---
-title: "Term proximity constraints for pseudo-relevance feedback"
+title: "Coss Domain User Engagement Evaluation"
 collection: publications
-permalink: /publication/paper3
+permalink: /publication/2010-10-01-paper-title-number-3
 excerpt: ''
-date: 2017-08-01
-venue: 'The 40th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval '
+date: 2016-04-01
+venue: 'The 38th European Conference on Information Retrieval'
 paperurl: ''
 ---
 
 
-[Download paper here](https://dl.acm.org/doi/pdf/10.1145/3077136.3080728)
+[Download paper here](https://link.springer.com/chapter/10.1007/978-3-319-30671-1_64)
 
 
