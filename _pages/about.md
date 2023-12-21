@@ -45,6 +45,10 @@ Throughout my academic career, I have been driven by a passion to develop innova
             <strong>A Reinforcement Learning Framework for Relevance Feedback</strong> - Description or abstract of Paper 2.
             <a href="https://dl.acm.org/doi/pdf/10.1145/3397271.3401099">Read More</a>
         </li>
+          <li>
+            <strong>Relevance Ranking Based on Query-Aware Context Analysis</strong> - Description or abstract of Paper 2.
+            <a href="https://link.springer.com/chapter/10.1007/978-3-030-45439-5_30">Read More</a>
+        </li>
         <!-- Add more papers as needed -->
     </ul>
 </div>
