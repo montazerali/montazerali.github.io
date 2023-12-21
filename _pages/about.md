@@ -30,27 +30,27 @@ Throughout my academic career, I have been driven by a passion to develop innova
             <a href="https://arxiv.org/pdf/2309.13063.pdf">Read More</a>
         </li>
         <li>
-            <strong>Algorithmic Vibe in Information Retrieval</strong> - Description or abstract of Paper 2.
+            <strong>Algorithmic Vibe in Information Retrieval</strong> - Published in WWW 23 Proceedings of the ACM Web Conference, 2023.
             <a href="https://dl.acm.org/doi/pdf/10.1145/3543507.3583384">Read More</a>
         </li>
         <li>
-            <strong>Learning Relevant Questions for Conversational Product Search using Deep Reinforcement Learning</strong> - Description or abstract of Paper 2.
+            <strong>Learning Relevant Questions for Conversational Product Search using Deep Reinforcement Learning</strong> - Published in The Fifteenth ACM International Conference on Web Search and Data Mining, 2022.
             <a href="https://dl.acm.org/doi/pdf/10.1145/3488560.3498526">Read More</a>
         </li>
         <li>
-            <strong>Large-scale Interactive Conversational Recommendation System using Actor-Critic Framework</strong> - Description or abstract of Paper 2.
+            <strong>Large-scale Interactive Conversational Recommendation System using Actor-Critic Framework</strong> - Published in The Fifteenth ACM Conference on Recommender Systems, 2021.
             <a href="https://dl.acm.org/doi/pdf/10.1145/3460231.3474271">Read More</a>
         </li>
         <li>
-            <strong>A Reinforcement Learning Framework for Relevance Feedback</strong> - Description or abstract of Paper 2.
+            <strong>A Reinforcement Learning Framework for Relevance Feedback</strong> - Published in The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, 2020.
             <a href="https://dl.acm.org/doi/pdf/10.1145/3397271.3401099">Read More</a>
         </li>
           <li>
-            <strong>Relevance Ranking Based on Query-Aware Context Analysis</strong> - Description or abstract of Paper 2.
+            <strong>Relevance Ranking Based on Query-Aware Context Analysis</strong> - Published in The 42th European Conference on Information Retrieval, 2020.
             <a href="https://link.springer.com/chapter/10.1007/978-3-030-45439-5_30">Read More</a>
         </li>
        <li>
-            <strong>Theoretical Analysis of Interdependent Constraints in Pseudo-Relevance Feedback</strong> - Description or abstract of Paper 2.
+            <strong>Theoretical Analysis of Interdependent Constraints in Pseudo-Relevance Feedback</strong> - Published in The 41th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2018.
             <a href="https://dl.acm.org/doi/pdf/10.1145/3209978.3210156">Read More</a>
         </li>
         <!-- Add more papers as needed -->
