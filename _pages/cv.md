@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV](http://montazerali.github.io/files/Ali_montazer_updatedCV2.pdf)
+
+
+<!--
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -58,4 +63,4 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 
-
+-->
