@@ -1,5 +1,5 @@
 ---
-title: "Coss Domain User Engagement Evaluation"
+title: "Cross Domain User Engagement Evaluation"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-3
 excerpt: ''
